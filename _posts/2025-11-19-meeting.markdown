@@ -1,0 +1,27 @@
+---
+layout: post
+title:  十一月第二次组会 -- 陈康，罗羿 
+comments: true
+category: upcoming
+tags: meeting <+ tags +>
+---
+<!-- 
+## Presenters
+### Name1
+### Name2
+
+<+ speaker bios +> 
+
+## Topics
+### Topic1
+### Topic2
+
+<+ notes +>
+
+Code examples 
+
+## Lightning Talks 
+
+## <+ person +> : <+ topic +>
+
+## <+ person +> : <+ topic +> -->

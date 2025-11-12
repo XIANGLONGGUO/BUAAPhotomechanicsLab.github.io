@@ -4,7 +4,7 @@ title: "About"
 ---
 
 <!-- You can edit this whole page, remove it, or use it as basis for any non-post pages you have. -->
-<!-- <section class="content">
+<section class="content">
 
 # {{ site.name }}
 
@@ -26,26 +26,4 @@ title: "About"
 </ul>
 
 
-## What:
-
-This is a description of your group.
-
-## Where:
-
-This is where your group's meetings are held.
-
-## When:
-
-This is when your group meets.
-
-## How:
-
-### Participation
-
-This is how you participate in your group.
-
-### Communications
-
-Links to various lists and chat services.
-
-</section> -->
+</section>
