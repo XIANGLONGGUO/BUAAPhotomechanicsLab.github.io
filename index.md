@@ -10,7 +10,7 @@ title: "About"
 
 <ul class="listing">
 <li>
-<span>Fall 2018</span><a href="{{ site.url }}/upcoming.html">Upcoming Topics</a>
+<span>Fall 2025</span><a href="{{ site.url }}/upcoming.html">Upcoming Topics</a>
 </li>
   {% assign upcoming = (site.posts | where: "category" , "upcoming") %}
   {% for post in upcoming reversed %}
@@ -21,7 +21,7 @@ title: "About"
     {% endif %}
   {% endfor %}
 <li>
-<span>2015-2016</span><a href="{{ site.url }}/previous.html">Previous Topics</a>
+<span>2025</span><a href="{{ site.url }}/previous.html">Previous Topics</a>
 </li>
 </ul>
 
